@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+.estilo2{
+	color:#009;
+	background-color:#FFF;
+	text-align:center;
+	font-family:"Yu Gothic";
+	font-style:italic;
+	font-size:42px;
+	font-weight:900;
+}
+p{
+	color:#0CF;
+	text-align:center;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-style:normal;
+	font-size:26px;
+	font-weight:700;
+}
+.estilo1{
+	text-align:left;
+	color:#F60;
+	font-family:"Times New Roman", Times, serif;
+	font-style:oblique;
+	font-size:30px;
+	font-weight:200;
+}
+ul.a{
+	color:blue;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:900;
+	list-style-image:url(Listaanillo.jpg);
+	font-size:20px;
+	font-weight:bold;
+	padding-left:600px;
+	
+}
+.estilo3{
+	background-color:#0F9;
+	font-style:italic;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#000;
+	font-weight:560;
+	text-align:center;
+	font-size:19px;
+}
+
